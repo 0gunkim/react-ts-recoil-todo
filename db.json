@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "recoil master"
+    },
+    {
+      "id": 2,
+      "title": "react-query rework"
+    },
+    {
+      "id": 3,
+      "title": "공부하기"
+    }
+  ]
+}
